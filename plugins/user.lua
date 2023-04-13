@@ -16,5 +16,9 @@ return {
     opts = {},
     event = "User AstroFile",
     cmd = { "TodoQuickFix" },
-  }
+  },
+  {
+    "ThePrimeagen/vim-be-good",
+    event = "VeryLazy",
+  },
 }
