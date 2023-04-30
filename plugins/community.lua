@@ -11,7 +11,7 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.rust" },
-  -- { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.completion.copilot-lua" },
   {
     "copilot.lua",
