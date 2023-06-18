@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.gruvbox" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.completion.copilot-lua" },
+  { import = "astrocommunity.pack.python" },
   {
     "copilot.lua",
     opts = {
